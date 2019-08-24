@@ -1,7 +1,7 @@
-stubborn
-RIDICULOUS
-tunnel vision
+**stubborn**
+_RIDICULOUS_
+**tunnel vision**
 persitant
-headstrong
-curious nature
-inteligent
+_headstrong_
+**curious nature**
+_inteligent_
